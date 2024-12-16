@@ -23,9 +23,8 @@ eliminate perceptual redundancies.
 
 ## Dataset
 
-The Flicker 2W dataset (or your own data) is used for training. You could download the dataset through this
-[link](https://drive.google.com/file/d/1EK04NO6o3zbcFv5G-vtPDEkPB1dWblEF/view),
-which is provided on their official GitHub page. To get the corresponding JND maps, run the following script:
+The Flicker 2W dataset is used for training, which can be downloaded from this 
+[link](https://drive.google.com/file/d/1EK04NO6o3zbcFv5G-vtPDEkPB1dWblEF/view). To get the corresponding JND maps, run the following script:
 
 ```bash
 python Util.jnd.py
