@@ -1,4 +1,4 @@
-##JND-LIC
+## JND-LIC
 Existing human visual perception-oriented image
 compression methods well maintain the perceptual quality of
 compressed images, but they may introduce fake details into
@@ -21,7 +21,7 @@ eliminate perceptual redundancies.
 
 ![NetWork](JND-LIC.jpg)
 
-##Dataset
+## Dataset
 
 The Flicker 2W dataset (or your own data) is used for training. You could download the dataset through this
 [link](https://drive.google.com/file/d/1EK04NO6o3zbcFv5G-vtPDEkPB1dWblEF/view),
@@ -31,7 +31,7 @@ which is provided on their official GitHub page. To get the corresponding JND ma
 python Util.jnd.py
 ```
 
-##Traing and Testing
+## Traing and Testing
 
 ```bash
 python train.py
